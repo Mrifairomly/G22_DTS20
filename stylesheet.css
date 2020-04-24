@@ -1,0 +1,45 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+.top-wrapper {
+  padding: 100px 80px;
+  background-color: yellow;
+}
+
+.container h1 {
+  font-size: 100px;
+  margin-bottom: 1px;
+}
+
+.container h2 {
+  font-size: 35px;
+  padding-bottom: 32px
+}
+
+.container p {
+  font-size: 20px;
+  margin-bottom: 3px;
+  color: #0000ff;
+  font-style: italic;
+  letter-spacing: 3px
+
+}
+
+.container span {
+  color: #ff0000;
+}
