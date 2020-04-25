@@ -1,0 +1,75 @@
+/* *default */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* *header */
+.navbar {
+  background-color: #0f4c75;
+}
+
+.navbar-toggler {
+  background-color: #ffffff;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-item {
+  color: #ffffff;
+}
+
+.navbar .nav-item:hover {
+  color: #bbe1fa;
+}
+
+/* *content */
+/* *profile fatur */
+.profile-fatur {
+  background-color: #a6b1e1;
+}
+
+.img-fatur {
+  width: 250px;
+  border-radius: 45px;
+}
+
+/* *sosmed */
+.fa-linkedin {
+  color: #313335;
+}
+
+.fa-linkedin:hover {
+  color: #0077B5;
+}
+
+.fa-github {
+  color: #000000;
+}
+
+.fa-github:hover {
+  color: #313335;
+}
+
+.fa-instagram {
+  color: #313335;
+}
+
+.fa-instagram:hover {
+  background: -webkit-linear-gradient(#515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* *footer */
+.footer {
+  margin-top: 100px;
+}
+
+.footer p {
+  color: #ACACAC;
+  font-size: 18px;
+}
+
+.text-fatur {
+  font-family: 'Raleway', sans-serif;
+}
