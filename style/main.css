@@ -122,6 +122,15 @@ footer h4{
   background: #1f8fa6;
 }
 
+.img-yunus{
+  width: 300px;
+  border-radius: 50px;
+}
+
+.text-yunus{
+  font-family: 'Raleway', sans-serif;
+}
+
 .profile-rifai{
   background: #AFEEEE;
 }
