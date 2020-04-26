@@ -23,6 +23,15 @@ body {
 }
 
 /* *content */
+}
+.carousel-caption h5 {
+  font-style: italic;
+}
+
+.carousel-caption span {
+  font-size: 90px;
+  color: #FF0000
+}
 /* *profile fatur */
 .profile-fatur {
   background-color: #a6b1e1;
@@ -83,5 +92,5 @@ body {
 }
 
 .profile-rifai{
-  background: #fff;
+  background: #AFEEEE;
 }
