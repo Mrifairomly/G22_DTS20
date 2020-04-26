@@ -61,14 +61,45 @@ body {
 }
 
 /* *footer */
-.footer {
-  margin-top: 100px;
+.message-wrapper {
+  font-family: 'Libre Franklin', sans-serif;
+  padding-top: 40px;
+  padding-bottom:70px;
+  text-align: center;
+  background-color: grey;;
+  font-size: 18px
 }
 
-.footer p {
-  color: #ACACAC;
-  font-size: 18px;
+footer{
+  background-color: #0f4c75;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-top: 2px dotted #693;
 }
+
+  footer img{
+    width: 125px;
+  }
+
+
+footer h4{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #ADF8FF;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message:active {
+  position: relative;
+  box-shadow: none;
+}
+
 
 .text-fatur {
   font-family: 'Raleway', sans-serif;
